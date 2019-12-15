@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-image: linear-gradient(to bottom right, #9702FF,#4A08F1, #1197FF);
+	background-attachment: fixed;
+}
+
+
+#woord{
+	margin: 0 auto;
+	width: 1000px;
+	height: 500px;
+}
+
+.lettervakjes{
+	border: 1px solid black;
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+}
+
+#letters{
+	position: absolute;
+	top: 230px;
+	left: 650px;
+}
+
+#DivR2{
+	position: absolute;
+	top: 282px;
+	left: 650px;
+}
+
+#DivR3{
+	position: absolute;
+	top: 334px;
+	left: 650px;
+}
+
+#DivR4{
+	position: absolute;
+	top: 386px;
+	left: 650px;
+}
+
+#DivR5{
+	position: absolute;
+	top: 438px;
+	left: 650px;
+}
+
